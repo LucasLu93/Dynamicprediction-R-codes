@@ -1,1 +1,1 @@
-# Dynamicprediction-R-codes
+# R codes for generating dynamic predictions of colorectal cancer risk and polyp counts for individuals with Lynch Syndrome based on the trivariate joint model for longitudinal count data, recurrent events, and a terminal event
